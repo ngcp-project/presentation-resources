@@ -1,0 +1,184 @@
+<mxfile host="app.diagrams.net" modified="2024-03-24T23:05:28.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="iwPukG6hgwJvlY2Qgzlw" version="24.1.0" type="onedrive">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JYyjgAMGVOueUWerTMK4-2" value="&lt;font style=&quot;font-size: 48px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;User Interface&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=60;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=48;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="70" width="360" height="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-22" value="&lt;font style=&quot;font-size: 48px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;Database API&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=60;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=48;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="370" height="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-23" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot; style=&quot;font-size: 48px;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;Message Broker&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=60;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=4;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=48;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="60" width="380" height="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-32" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot; style=&quot;font-size: 36px;&quot;&gt;POST MissionInfo&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;strokeWidth=4;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;" edge="1" parent="1">
+          <mxGeometry x="0.0003" width="80" relative="1" as="geometry">
+            <mxPoint x="-630" y="420" as="sourcePoint" />
+            <mxPoint x="425" y="420" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-33" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot; style=&quot;font-size: 36px;&quot;&gt;POST Zones&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;strokeWidth=4;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;" edge="1" parent="1">
+          <mxGeometry x="0.0003" width="80" relative="1" as="geometry">
+            <mxPoint x="-630" y="590" as="sourcePoint" />
+            <mxPoint x="425" y="590" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-34" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot; style=&quot;font-size: 36px;&quot;&gt;Mission Info&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;strokeWidth=4;fontSize=36;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;" edge="1" parent="1">
+          <mxGeometry x="0.0022" width="80" relative="1" as="geometry">
+            <mxPoint x="425.0035294117649" y="470.0000000000002" as="sourcePoint" />
+            <mxPoint x="1479" y="470.0000000000002" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-37" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot; style=&quot;font-size: 36px;&quot;&gt;Geofence Info&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;strokeWidth=4;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;" edge="1" parent="1">
+          <mxGeometry x="0.0019" width="80" relative="1" as="geometry">
+            <mxPoint x="424.9977777777783" y="620.0000000000002" as="sourcePoint" />
+            <mxPoint x="1479.4" y="620.0000000000002" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5nHN-oCA2bxab1TRtN3-3" value="&lt;font style=&quot;font-size: 36px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot;&gt;Loop&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=200;strokeWidth=4;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;height=50;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="130" width="2480" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="M5nHN-oCA2bxab1TRtN3-4" value="&lt;font style=&quot;font-size: 28px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot;&gt;[Active Connection]&lt;/font&gt;" style="text;html=1;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=28;" vertex="1" parent="M5nHN-oCA2bxab1TRtN3-3">
+          <mxGeometry width="290" height="40" relative="1" as="geometry">
+            <mxPoint x="190" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-30" value="Telemetry Data" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;labelBackgroundColor=none;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;strokeWidth=4;" edge="1" parent="M5nHN-oCA2bxab1TRtN3-3" source="JYyjgAMGVOueUWerTMK4-23">
+          <mxGeometry x="-0.5371" relative="1" as="geometry">
+            <mxPoint x="1139" y="170" as="sourcePoint" />
+            <mxPoint x="180" y="170" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-26" value="&lt;font style=&quot;font-size: 36px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot;&gt;Start Connection Controller&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;strokeWidth=4;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;" edge="1" parent="M5nHN-oCA2bxab1TRtN3-3">
+          <mxGeometry x="0.0036" width="80" relative="1" as="geometry">
+            <mxPoint x="181.0035294117646" y="120.00000000000023" as="sourcePoint" />
+            <mxPoint x="1235.1800000000005" y="120.00000000000023" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-31" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot; style=&quot;font-size: 36px;&quot;&gt;Begin Receiving Telemetry&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;strokeWidth=4;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;" edge="1" parent="M5nHN-oCA2bxab1TRtN3-3">
+          <mxGeometry x="-0.0044" width="80" relative="1" as="geometry">
+            <mxPoint x="1235.0033333333336" y="120" as="sourcePoint" />
+            <mxPoint x="2289.67" y="120" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSrs701S1IoBDVeVzn7U-16" value="Confirmation of Mission Info" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;labelBackgroundColor=none;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry x="0.0088" relative="1" as="geometry">
+            <mxPoint x="1479.18" y="529.9999999999998" as="sourcePoint" />
+            <mxPoint x="425.0035294117649" y="529.9999999999998" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSrs701S1IoBDVeVzn7U-17" value="Confirmation of GeofenceInfo" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;labelBackgroundColor=none;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry x="0.0088" relative="1" as="geometry">
+            <mxPoint x="1479" y="679.9999999999998" as="sourcePoint" />
+            <mxPoint x="425.0035294117649" y="679.9999999999998" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-41" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot; style=&quot;font-size: 36px;&quot;&gt;Option&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=200;strokeWidth=4;fontSize=36;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;height=50;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="720" width="2480" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-42" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;[Emergency]&lt;/font&gt;" style="text;html=1;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=24;" vertex="1" parent="JYyjgAMGVOueUWerTMK4-41">
+          <mxGeometry width="170" height="40" relative="1" as="geometry">
+            <mxPoint x="190" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-44" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot; style=&quot;font-size: 36px;&quot;&gt;POST Emergency Stop&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;strokeWidth=4;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;" edge="1" parent="JYyjgAMGVOueUWerTMK4-41" target="JYyjgAMGVOueUWerTMK4-22">
+          <mxGeometry x="0.002" width="80" relative="1" as="geometry">
+            <mxPoint x="169.99777777777786" y="110" as="sourcePoint" />
+            <mxPoint x="1225.22" y="110" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSrs701S1IoBDVeVzn7U-18" value="Confirmation of Emergency Stop&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;labelBackgroundColor=none;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;strokeWidth=4;" edge="1" parent="JYyjgAMGVOueUWerTMK4-41" target="JYyjgAMGVOueUWerTMK4-22">
+          <mxGeometry x="0.0088" relative="1" as="geometry">
+            <mxPoint x="2279" y="189.99999999999977" as="sourcePoint" />
+            <mxPoint x="1225.003529411765" y="189.99999999999977" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-49" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot; style=&quot;font-size: 36px;&quot;&gt;Emergency Stop Message&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;strokeWidth=4;fontSize=36;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;" edge="1" parent="JYyjgAMGVOueUWerTMK4-41">
+          <mxGeometry x="0.0015" width="80" relative="1" as="geometry">
+            <mxPoint x="1234.9973684210524" y="130" as="sourcePoint" />
+            <mxPoint x="2287.05" y="130" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-45" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Option&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=200;strokeWidth=4;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;height=50;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="1020" width="2480" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-46" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;[Change Mission Status]&lt;/font&gt;" style="text;html=1;fontSize=24;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;" vertex="1" parent="JYyjgAMGVOueUWerTMK4-45">
+          <mxGeometry width="330" height="40" relative="1" as="geometry">
+            <mxPoint x="190" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JYyjgAMGVOueUWerTMK4-47" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot; style=&quot;font-size: 36px;&quot;&gt;POST MissionInfo&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;strokeWidth=4;fontSize=36;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;" edge="1" parent="JYyjgAMGVOueUWerTMK4-45">
+          <mxGeometry x="0.0021" width="80" relative="1" as="geometry">
+            <mxPoint x="170.00333333333322" y="110" as="sourcePoint" />
+            <mxPoint x="1224.6700000000005" y="110" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5nHN-oCA2bxab1TRtN3-2" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;Updated Mission Info&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;strokeWidth=4;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;" edge="1" parent="JYyjgAMGVOueUWerTMK4-45">
+          <mxGeometry x="0.0003" width="80" relative="1" as="geometry">
+            <mxPoint x="1225.0033333333336" y="130" as="sourcePoint" />
+            <mxPoint x="2279.67" y="130" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSrs701S1IoBDVeVzn7U-19" value="Confirmation of Emergency Stop&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;labelBackgroundColor=none;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;strokeWidth=4;" edge="1" parent="JYyjgAMGVOueUWerTMK4-45">
+          <mxGeometry x="0.0088" relative="1" as="geometry">
+            <mxPoint x="2279" y="189.99999999999977" as="sourcePoint" />
+            <mxPoint x="1225.003529411765" y="189.99999999999977" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSrs701S1IoBDVeVzn7U-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Option&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=200;strokeWidth=4;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;height=50;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="1310" width="2480" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="oSrs701S1IoBDVeVzn7U-2" value="[UI Crashes]" style="text;html=1;fontSize=28;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;" vertex="1" parent="oSrs701S1IoBDVeVzn7U-1">
+          <mxGeometry width="170" height="40" relative="1" as="geometry">
+            <mxPoint x="30" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSrs701S1IoBDVeVzn7U-7" value="Mission Info" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;labelBackgroundColor=none;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;strokeWidth=4;" edge="1" parent="oSrs701S1IoBDVeVzn7U-1">
+          <mxGeometry x="0.0009" relative="1" as="geometry">
+            <mxPoint x="1235" y="150" as="sourcePoint" />
+            <mxPoint x="182" y="150" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSrs701S1IoBDVeVzn7U-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot; style=&quot;font-size: 36px;&quot;&gt;GET Mission Info&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=classic;curved=0;rounded=0;labelBackgroundColor=none;strokeWidth=4;fontSize=36;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;startArrow=none;startFill=0;endFill=1;" edge="1" parent="oSrs701S1IoBDVeVzn7U-1">
+          <mxGeometry x="0.0011" width="80" relative="1" as="geometry">
+            <mxPoint x="180" y="90" as="sourcePoint" />
+            <mxPoint x="1235.4999999999995" y="90" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSrs701S1IoBDVeVzn7U-8" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sen&quot; style=&quot;font-size: 36px;&quot;&gt;GET Zones&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=classic;curved=0;rounded=0;labelBackgroundColor=none;strokeWidth=4;fontSize=36;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;startArrow=none;startFill=0;endFill=1;" edge="1" parent="oSrs701S1IoBDVeVzn7U-1">
+          <mxGeometry x="0.0021" width="80" relative="1" as="geometry">
+            <mxPoint x="182.00333333333347" y="240" as="sourcePoint" />
+            <mxPoint x="1234.67" y="240" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSrs701S1IoBDVeVzn7U-9" value="Geofence Info" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;labelBackgroundColor=none;fontFamily=Sen;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSen;fontSize=36;strokeWidth=4;" edge="1" parent="oSrs701S1IoBDVeVzn7U-1">
+          <mxGeometry x="0.0009" relative="1" as="geometry">
+            <mxPoint x="1222.67" y="300" as="sourcePoint" />
+            <mxPoint x="170.00333333333344" y="300" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
