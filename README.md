@@ -3,6 +3,10 @@ This repo hosts materials used for presentations, including slides and diagram f
 
 # How to Upload New Resources (Shortcut)
 1. Use Github's web interface to upload files directly to the appropriate team folder.
+<img width="2282" height="1511" alt="image" src="https://github.com/user-attachments/assets/6be1b060-b0ce-4855-b55e-0fecdfbf9611" /> <br>
+
+
+
 2. When you're logged in and on the main repo page, press period (.) to open the web-based editor.
 3. Navigate to the desired team folder.
 4. Upload the files using the VSCode web interface.
