@@ -1,7 +1,15 @@
 # Presentation Resources
 This repo hosts materials used for presentations, including slides and diagram files.
 
-# How to Upload New Resources
+# How to Upload New Resources (Shortcut)
+1. Use Github's web interface to upload files directly to the appropriate team folder.
+2. When you're logged in and on the main repo page, press period (.) to open the web-based editor.
+3. Navigate to the desired team folder.
+4. Upload the files using the VSCode web interface.
+5. Commit the changes directly from the web interface.
+
+
+# How to Upload New Resources (Git LFS Required)
 1. Clone the repository to your local machine.
 ```bash
    git clone https://github.com/ngcp-project/presentation-resources.git
